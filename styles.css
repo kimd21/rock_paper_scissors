@@ -68,3 +68,38 @@ h1 {
   font-size: 30px;
 }
 
+#win-cnts {
+  display: flex;
+  position: absolute;
+  margin: 0 auto;
+  top: 600px;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 50px;
+  font-size: 1.5rem;
+}
+
+#pwins {
+  display: flex;
+  flex-direction: column;
+}
+
+#cwins {
+  display: flex;
+  flex-direction: column;
+}
+
+#pwincnt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#cwincnt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
